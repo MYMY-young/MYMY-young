@@ -1,7 +1,7 @@
 
 
-📚 Computer Science and Engineering at Sogang Univ.
-🌱 Interest : Semantic Segmentation 
+- 📚 Computer Science and Engineering at Sogang Univ.
+- 🌱 Interest : Semantic Segmentation 
 
 <!--
 **MYMY-young/MYMY-young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
