@@ -1,6 +1,7 @@
-### Hi there 👋
 
-📚 Studying  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
+📚 Computer Science and Engineering at Sogang Univ.
+🌱 Interest : Semantic Segmentation 
 
 <!--
 **MYMY-young/MYMY-young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
