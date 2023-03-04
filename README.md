@@ -1,6 +1,7 @@
 
 
-- 📚 Computer Science and Engineering at Sogang Univ.
+- 📚 M.S. student in Artificial Intelligence at Sogang Univ.
+- 🎓 B.S. in Computer Science and Engineering at Sogang Univ.
 - 🌱 Interest : Semantic Segmentation 
 
 <!--
