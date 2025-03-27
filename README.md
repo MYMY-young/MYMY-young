@@ -1,8 +1,8 @@
 
-
-- 📚 M.S. student in Artificial Intelligence at Sogang Univ.
+- 📚 Ph.D. student in Computer Science and Engineering at Sogang Univ.
+- 🎓 M.S. in Artificial Intelligence at Sogang Univ.
 - 🎓 B.S. in Computer Science and Engineering at Sogang Univ.
-- 🌱 Interest : Semantic Segmentation 
+- 🌱 Interest : Video LLM, Domain Adaptation, Semantic Segmentation 
 
 <!--
 **MYMY-young/MYMY-young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
